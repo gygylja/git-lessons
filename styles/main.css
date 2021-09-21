@@ -13,3 +13,7 @@ h3{
     color: rgb(118, 7, 221);
     text-align: right;
 }
+p{
+    font-family: monospace;
+    font-size: 30px;
+}
