@@ -3,11 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    background-color: red;
-}
+
 h1{
     color: green;
     text-align: center;
-    margin: 10px 0;
+    margin: 20px 0;
+}
+h3{
+    color: rgb(118, 7, 221);
+    text-align: right;
+}
+p{
+    font-family: monospace;
+    font-size: 30px;
 }
